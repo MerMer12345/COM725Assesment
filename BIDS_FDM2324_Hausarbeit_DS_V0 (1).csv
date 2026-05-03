@@ -1,0 +1,286 @@
+ID;Gender;Age;Race;BMI;Marital status;TypeDiabetes;Duration of diabetes (years);SmokingYears;Amputation;SysBP;DiaBP;HbA1C;HDL;LDL;TRI;SERUMCRE;MICROALB;SERUMALB;Hypoglycemic Agents;Medication Insulin;Medication Sulfonylureas;Medication BP;Diabetic Macrovascular Complications;Diabetic Microvascular Complications;Comorbidities
+502;F;50;1;33,2;married;2;25,00 ;0;0;126;100;10,2;36,0;1,4;306;1,4;NA;4;Gansulin 40R ;0;0;0;none;nephropathy;congestive heart failure
+735;M;26;1;31,5;married;2;14,00 ;0;0;169;75;10,5;32,0;2,1;93,5;NA;NA;3,775;metformin, Humulin 70/30;0;1;0;none;none;cardiac arrhythmia
+420;F;50;1;27,6;married;2;14,00 ;0;0;185;98;11,5;30,0;1,4;149;2,4;NA;3,5;metformin, Humulin 70/30 ;0;0;0;none;none;valvular disease
+680;F;50;3;33,7;married;2;10,00 ;30;0;141;100;12,2;20,0;1,4;196;1,5;NA;NA;insulin aspart 50/50, acarbose, metformin, glimepiride;1;0;0;peripheral arterial disease, coronary heart disease;neuropathy, retinopathy;hypertension, hyperuricemia, nephrolithiasis, kidney cyst, prostatic hyperplasia, hepatic dysfunction, chronic hepatitis B
+504;M;33;3;18;married;2;22,00 ;0;0;167;72;4,7;66,0;2;51,333333;1,0;NA;NA;metformin, acarbose, Novolin 30R;0;1;0;peripheral arterial disease;nephropathy;hypertension, vitamin D deficiency
+634;F;45;2;32,4;married;2;20,00 ;0;0;100;93;5,0;54,0;1,5;59;10,0;NA;3,6;insulin aspart 70/30;0;0;0;coronary heart disease;none;atrial fibrillation, vitamin D deficiency, pulmonary nodule, thyroid nodule, cerebrovascular disease, Alzheimer's disease, urinary tract infection, anxiety
+721;F;50;1;27,8;married;2;0,01 ;0;0;126;70;5,2;47,3;2,1;140,333333;0,8;NA;3,9;voglibose ;0;1;0;peripheral arterial disease;none;hypertension, hyperlipidemia, fatty liver disease, vitamin D deficiency
+421;M;48;1;31;married;2;8,00 ;0;0;187;95;5,2;38,8;1,6;108;1,8;28;4,05;Novolin R;0;1;0;none;neuropathy, retinopathy;thyroid nodule, hyperlipidemia, pulmonary nodule
+670;M;43;1;29,9;married;2;0,04 ;11,25;0;108;91;5,3;47,4;3,7;140;1,1;NA;NA;voglibose ;0;0;0;peripheral arterial disease;neuropathy;hyperlipidemia
+759;F;32;1;30;married;2;12,00 ;7,5;0;171;73;5,3;33,0;3,8;143;1,5;NA;4;pioglitazone, acarbose, metformin, sitagliptin;0;1;0;peripheral arterial disease;nephropathy;hypertension, vitamin D deficiency
+636;F;31;1;21,3;married;2;0,04 ;0;0;163;88;5,3;58,5;1,6;84;0,8;NA;NA;Novolin R;0;0;0;peripheral arterial disease, cerebrovascular disease;none;fatty liver disease, thyroid nodule, nephrolithiasis, hydronephrosis, pulmonary nodule, prostatic hyperplasia
+788;F;33;1;37,6;married;2;0,02 ;15;0;200;66;5,3;NA;2,7;102;1,4;NA;3,15;Novolin R;0;1;0;none;none;hyperlipidemia, fatty liver disease, thyroid nodule, conjunctivitis, prostatic hyperplasia
+82;;30;1;23;married;2;9,00 ;0;0;219;60;5,4;36,7;3,2;124,027027;1,5;NA;2,623076;metformin, sitagliptin, gliclazide;0;0;0;peripheral arterial disease;none;hypertension, hypokalemia, hyperlipidemia, fatty liver disease, thyroid nodule, pulmonary nodule
+132;F;45;1;27,6;married;2;7,00 ;7,5;0;167;58;5,4;41,0;2,2;55;1,0;NA;4;metformin, liraglutide;0;0;0;coronary heart disease, peripheral arterial disease;neuropathy;hypertension, vitamin D deficiency, prostatic hyperplasia, pulmonary nodule, kidney cyst
+402;F;50;1;27,3;married;2;9,00 ;30;0;201;58;5,4;35,5;2,2;174,5;1,0;NA;NA;Novolin 30R, metformin, voglibose ;0;0;0;peripheral arterial disease;neuropathy;hyperlipidemia, fatty liver disease, hyperuricemia, nephrolithiasis, vitamin D deficiency, prostatic hyperplasia, pulmonary nodule, hypertension
+566;M;50;1;30,5;married;2;7,00 ;0;0;108;99;5,4;53,2;2,1;89,166666;1,1;5,5;3,404; insulin degludec, metformin ;0;0;0;none;none;hypertension, hyperlipidemia
+596;F;50;1;25;married;2;8,00 ;0;0;163;67;5,4;31,5;4,1;106,5;1,2;NA;NA; insulin degludec, metformin ;1;0;0;none;none;hypertension, hyperlipidemia
+676;F;30;1;32,8;married;2;4,00 ;0;0;183;68;5,4;32,3;3,2;200,666666;1,0;3,85;NA;pioglitazone, metformin, insulin degludec ;0;0;0;none;none;none
+729;F;49;1;23;single;2;4,00 ;0;0;179;84;5,5;47,0;3,3;182;1,5;NA;3,9;pioglitazone, metformin, insulin degludec ;0;1;0;none;none;psychoses
+742;F;49;1;29,7;widowed;2;1,00 ;0;0;148;97;5,5;38,0;;;1,3;NA;3,8;sitagliptin;0;1;0;none;none;depression
+64;F;49;3;24,4;unknown;2;1,00 ;0;0;214;75;5,6;51,8;2,8;58;NA;NA;NA;voglibose, insulin degludec;0;1;0;none;none;pancreatic cancer
+97;F;42;1;24,3;na;2;1,00 ;0;0;137;96;5,6;28,3;4,6;138,5;1,3;143,7;NA;voglibose, insulin degludec;0;1;0;none;none;pancreatic cancer
+126;F;33;1;29,6;divorced;2;20,00 ;0;0;104;63;5,6;48,0;2,3;323;;NA;NA;insulin aspart 70/30, metformin, acarbose;0;0;0;peripheral arterial disease, coronary heart disease;neuropathy, retinopathy;hypertension, thyroid nodule, osteoporosis
+390;M;50;1;23;divorced;2;13,00 ;0;0;140;80;5,6;31,5;3,6;244;1,8;5;4,325;insulin aspart 70/30;0;1;0;peripheral arterial disease;neuropathy;none
+458;F;39;1;18,8;married;2;10,00 ;0;0;165;93;5,6;53,3;3;68;1,3;NA;NA;insulin glarigine, metformin;1;0;0;peripheral arterial disease;neuropathy, retinopathy;liver cyst, cholelithiasis, kidney cyst, thyroid nodule, prostatic hyperplasia, osteoporosis
+470;F;30;1;27,9;married;2;16,00 ;0;0;169;55;5,7;38,0;3,2;64;1,1;NA;4,3;insulin aspart 70/30, acarbose;0;1;0;peripheral arterial disease;none;hypertension, vitamin D deficiency, cataract, enlarged adrenal gland
+494;M;30;2;29,1;single;2;4,00 ;30;0;208;65;5,7;29,0;3,5;151;8,2;19,9;NA;insulin detemir, acarbose, metformin;0;0;0;peripheral arterial disease;none;hepatic dysfunction, hyperlipidemia, fatty liver disease, liver cyst, gallbladder polyp, thyroid nodule
+564;M;41;1;30,5;single;2;4,00 ;0;0;109;84;5,7;45,6;3,8;135;0,9;NA;3,95;Novolin 30R, acarbose;0;0;0;peripheral arterial disease;none;liver cyst, fatty liver disease, pulmonary nodule, thyroid nodule
+696;M;33;1;29,5;single;2;20,00 ;0;0;108;98;5,8;42,5;2,4;114,25;2,0;NA;3,9;insulin aspart 70/30, acarbose;0;1;0;peripheral arterial disease;neuropathy, retinopathy;hypertension, vitamin D deficiency, thyroid nodule
+106;F;44;1;38,8;single;2;20,00 ;60;0;219;73;5,8;41,0;3,6;95;1,4;NA;NA;Novolin R, insulin glarigine;0;1;0;coronary heart disease;retinopathy;none
+138;2;48;1;25,1;single;2;0,17 ;0;0;148;99;5,8;NA;0,9;NA;1,0;NA;NA;Novolin 30R;0;1;0;peripheral arterial disease;none;thyroid nodule
+315;M;47;1;24,9;single;2;5,00 ;0;0;205;51;5,8;34,8;4,2;168,6;1,3;NA;4,3;insulin glarigine, metformin, acarbose;0;0;0;peripheral arterial disease, cerebrovascular disease;neuropathy, retinopathy;hypertension, Parkinson's disease, cataract, pulmonary nodule, hyperlipidemia, thyroid nodule, vitamin D deficiency, prostatic hyperplasia
+650;M;36;1;23;single;2;10,00 ;80;0;181;64;5,9;45,5;1,9;89;0,8;NA;4,5;insulin aspart 70/30, acarbose;0;1;0;peripheral arterial disease, cerebrovascular disease;nephropathy, neuropathy, retinopathy;hypertension, hypertension, hyperuricemia, hyperlipidemia, thyroid nodule, vitamin D deficiency, pulmonary nodule, fatty liver disease, cholelithiasis, prostatic hyperplasia
+678;F;42;1;27,3;single;2;8,00 ;30;0;120;66;5,9;54,0;4,6;132;1,2;NA;4,4;insulin aspart 70/30, metformin  ;0;0;0;peripheral arterial disease;nephropathy, neuropathy, retinopathy;pancreatic cancer, osteopenia, hepatic dysfunction, pulmonary nodule
+699;F;47;1;28,7;single;2;20,00 ;5;0;162;57;5,9;36,2;4,9;56;1,1;NA;NA;insulin aspart 70/30, gliclazide;0;1;0;peripheral arterial disease, coronary heart disease;neuropathy;hypertension, hyperuricemia, hyperlipidemia
+703;F;39;3;19,4;single;2;20,00 ;8;0;171;83;5,9;59,0;2,6;82,5;0,7;NA;3,95;pioglitazone, metformin, gliquidone;0;0;0;peripheral arterial disease, coronary heart disease;neuropathy;hypertension
+708;F;38;1;21,7;single;2;0,01 ;3;0;150;65;5,9;41,7;2;120,333333;1,2;NA;3,9;Novolin 30R;0;0;0;none;neuropathy;hyperlipidemia, hepatic dysfunction, fatty liver disease, pulmonary nodule, kidney cyst, vitamin D deficiency
+719;M;46;1;19,6;single;2;2,00 ;30;0;205;95;5,9;60,5;2,4;118,5;1,2;12,5;NA;metformin, insulin detemir;0;0;0;coronary heart disease;neuropathy;hypertension
+740;M;44;1;39,2;single;2;2,00 ;0,25;0;202;74;5,9;37,0;2;85;1,7;13,9;3,9;Novolin R;0;0;0;peripheral arterial disease;neuropathy;prostatic hyperplasia, kidney cyst
+741;F;41;1;23,2;single;2;20,00 ;0;0;218;73;6,0;29,7;3;78,666666;1,4;NA;NA;insulin detemir, Novolin R, acarbose, metformin;0;1;0;peripheral arterial disease;neuropathy;hypertension
+746;F;45;2;33,6;single;2;8,00 ;0;0;215;65;6,1;43,8;2,2;134,2;1,5;7;4,28;insulin detemir, Novolin R;0;0;0;none;none;hepatic dysfunction, hyperlipidemia, fatty liver disease, hypokalemia, lumbar herniated disc, periodontitis
+794;F;44;1;32,2;single;2;0,10 ;0;0;156;51;6,1;43,3;2,5;106,25;1,3;NA;3,633333;sitagliptin  ;0;0;0;none;none;none
+219;M;33;a;31;single;2;1,00 ;30;0;116;64;6,1;37,8;2,4;80;0,9;NA;NA;Novolin 30R;0;0;0;peripheral arterial disease;retinopathy;hepatic dysfunction, hypertension
+255;M;43;1;24,8;single;2;8,00 ;0;0;162;54;6,1;48,0;2,6;66,5;1,0;2,5;3,971428;Novolin R;0;0;0;peripheral arterial disease;none;none
+450;F;33;1;24,6;single;2;0,02 ;0;0;188;69;6,2;41,0;2,6;83;1,7;NA;NA;Novolin R;0;0;0;none;none;hyperlipidemia, fatty liver disease, urinary tract infection, cataract, thyroid nodule, osteoporosis, chronic hepatitis B, chronic gastritis, gastric polyp, colorectal polyp
+626;1;49;1;26,4;single;2;20,00 ;10;0;132;95;6,2;43,5;1,4;115;1,8;NA;3,455555;Novolin R, metformin   ;1;0;0;peripheral arterial disease;nephropathy, neuropathy;urinary tract infection, hydronephrosis, pulmonary nodule, cataract, hyperlipidemia, thyroid nodule, vitamin D deficiency, prostatic hyperplasia, osteoporosis, sinus bradycardia, sinus arrhythmia
+664;M;31;1;31,4;single;2;13,00 ;0;0;126;84;6,2;40,7;2,4;98;1,0;NA;3,8;Novolin 30R;0;0;0;none;none;hypertension, hypokalemia, hyperlipidemia, fatty liver disease, thyroid nodule
+704;M;49;1;28,9;single;2;0,08 ;0;0;190;87;6,2;36,0;3,3;153,25;1,4;NA;4,4; insulin detemir, Novolin R;0;1;0;none;none;hypertension, chronic atrophic gastritis
+799;F;44;1;32,1;single;2;30,00 ;0;0;209;93;6,2;32,3;2,5;102,666666;1,4;NA;NA;insulin aspart 70/30, acarbose, sitagliptin  ;0;0;0;peripheral arterial disease;neuropathy;hypertension, Alzheimer's disease
+210;F;47;1;22,2;single;2;8,00 ;0;0;300;50;6,3;36,0;2,4;67;1,0;NA;4,1;insulin degludec, gliclazide, voglibose, metformin ;0;0;0;none;none;none
+237;M;44;1;22,2;single;2;3,00 ;0;0;135;98;6,3;36,0;2,8;67;1,0;NA;4,1;metformin;0;0;0;none;none;hyperlipidemia
+318;F;45;2;27,2;single;2;2,00 ;0;0;199;56;6,3;57,3;4,2;109,333333;1,0;NA;4,1;metformin;0;0;0;none;none;none
+620;M;43;1;22,6;single;2;20,00 ;0;0;201;91;6,3;40,0;3;85;1,5;NA;NA;sitagliptin  ;0;1;0;none;none;hypertension, atrial fibrillation
+640;F;47;1;28,7;single;2;11,00 ;0;0;208;58;6,3;39,5;2,8;158,5;1,8;40,6;4,4;insulin aspart 70/30;0;0;0;none;none;none
+668;0;50;1;18,4;single;2;0,17 ;0;0;148;54;6,3;38,0;0,3;104,75;1,5;NA;4,05;gliclazide;0;1;0;none;none;hyperlipidemia
+701;F;50;1;24,6;single;2;20,00 ;0;0;96;97;6,3;40,8;1,7;191;0,9;143,535;4,62;canagliflozin, metformin ;1;1;0;none;none;none
+174;F;49;2;27,5;single;2;2,00 ;0;0;157;81;6,3;38,0;2,5;219;1,4;22,3;4,4; insulin aspart 70/30;0;0;0;none;none;none
+276;F;50;1;25,6;single;2;10,00 ;0;0;174;92;6,3;43,0;2;92,5;1,1;NA;3,7;metformin;0;0;0;none;none;none
+345;F;49;3;19,9;single;2;0,08 ;0;0;208;90;6,4;31,7;3;162,666666;0,7;NA;3,6;none;0;0;0;none;none;hypertension, hypothyroidism, hysteromyoma
+482;F;44;1;25;married;2;6,00 ;0;0;201;77;6,4;29,0;3,5;116;0,9;NA;NA;acarbose, dapagliflozin, metformin;0;1;0;none;none;none
+630;F;48;1;23,6;married;2;7,00 ;0;0;140;66;6,4;39,7;1,2;70,666666;1,9;49;3,8;dapagliflozin;1;0;0;none;none;none
+99;M;59;2;32,9;married;2;1,00 ;0;0;108;57;6,4;29,0;4,9;139,5;1,3;NA;NA;none;0;0;0;none;none;cholecystitis, hysteromyoma, thyroid nodule
+102;F;35;1;28,4;married;2;30,00 ;0;0;147;64;6,4;41,5;1,3;113,5;1,2;NA;NA;insulin aspart 70/30;0;1;0;none;none;hypertension
+126;M;51;1;38;married;2;0,67 ;0;0;109;83;6,4;53,0;2,7;105;1,2;NA;3,55;metformin;0;0;0;none;none;none
+134;F;30;1;25,8;married;2;40,00 ;0;0;95;65;6,4;29,3;4,2;126,75;1,1;6,1;3,833333;insulin aspart 70/30;0;1;0;coronary heart disease;nephropathy, neuropathy, retinopathy;hypertension, prostatic hyperplasia, hypoparathyroidism, hypokalemia, vitamin D deficiency, cataract, cholelithiasis, kidney cyst, cerebrovascular disease, lung lesion
+137;F;50;1;21;married;2;5,00 ;0;0;116;78;6,4;23,0;3,1;NA;1,2;NA;3,6;acarbose, dapagliflozin, gliclazide   ;0;1;0;none;none;hypertension
+138;F;57;1;32,1;married;2;15,00 ;0;0;199;66;6,4;30,0;3;222;1,2;NA;4,3;repaglinide ;0;1;0;none;none;none
+139;F;50;1;33,1;married;2;5,00 ;0;0;164;97;6,4;28,0;4,1;189;1,4;6,5;3,5;none;0;0;0;none;none;psoriasis
+141;F;35;1;31,6;married;2;1,00 ;0;0;111;50;6,4;39,0;1,3;99;0,9;NA;3,7;metformin ;0;0;0;none;none;none
+143;M;63;1;29,5;married;2;15,00 ;0;0;159;54;6,4;38,7;3;151;1,3;NA;NA;metformin ;0;0;0;coronary heart disease;none;hypertension
+144;M;36;1;27,3;married;2;24,00 ;0;0;217;62;6,4;45,0;1,9;152;0,9;NA;4,3;metformin ;0;0;0;none;none;hypertension, hyperlipidemia
+145;M;50;1;23,9;married;2;10,00 ;0;0;112;58;6,4;32,4;3;146;1,7;63;4,18;gliclazide ;0;0;0;none;none;none
+147;F;25;1;38,7;married;2;2,50 ;0;0;130;90;6,5;25,3;1,3;118,333333;1,2;NA;4,066666;metformin ;0;0;0;none;none;none
+149;F;40;1;42,3;married;2;8,00 ;0;0;205;84;6,5;53,3;3;101;0,8;NA;3,3;acarbose, repaglinide  ;1;0;0;peripheral arterial disease;neuropathy;cataract, hyperlipidemia, fatty liver disease, osteoporosis
+150;F;40;1;25,1;married;2;16,00 ;0;0;184;63;6,5;27,0;1,8;242;NA;NA;4,25;gliclazide  ;1;0;0;cerebrovascular disease;none;none
+153;M;50;3;26,3;married;2;16,00 ;0;0;89;77;6,5;33,7;0,9;93;1,2;NA;3,8;metformin, acarbose, gliclazide, sitagliptin;0;1;0;cerebrovascular disease;none;none
+154;M;30;1;29,8;married;2;16,00 ;0;0;198;78;6,5;32,0;3,3;312;1,3;NA;3,7;insulin detemir, insulin aspart 70/30, acarbose;0;0;0;cerebrovascular disease;none;none
+157;M;50;2;23,9;married;2;6,00 ;0;0;120;86;6,6;35,3;4,3;166,666666;1,3;NA;4,3;Novolin 30R, acarbose;0;1;0;none;none;none
+161;F;60;1;28;married;2;15,00 ;0;0;141;55;6,6;31,8;3,6;158,166666;1,4;NA;NA;dapagliflozin, liraglutide,pioglitazone, metformin;0;1;0;none;none;myocardial bridging
+165;F;77;1;39,3;married;2;10,00 ;0;0;132;77;6,6;30,9;4,2;166,285714;1,7;NA;NA;repaglinide, metformin ;0;0;0;none;none;hypertension, hyperlipidemia,  parotid gland carcinoma, hepatic dysfunction, urinary tract infection, hyperuricemia, pulmonary nodule, fatty liver disease, thyroid nodule, osteopenia
+166;F;44;1;25,6;married;2;0,04 ;0;0;190;55;6,6;31,7;3;130,333333;1,2;24;NA;Novolin 30R;0;0;0;peripheral arterial disease, coronary heart disease;none;hypertension, hyperlipidemia, thyroid nodule, sinus bradycardia, fatty liver disease, kidney cyst
+171;M;40;1;26,7;married;2;0,58 ;0;0;97;57;6,6;36,0;1,3;79;1,0;NA;4,3;insulin detemir, Novolin R;0;1;0;none;none;none
+180;F;54;1;26,7;;2;0,58 ;0;0;147;63;6,6;35,4;2,2;111,5;1,5;NA;4,075; insulin detemir, Gansulin R;0;0;0;none;none;none
+181;F;50;1;28,4;na;2;4,00 ;0;0;102;81;6,6;52,0;2,7;111,333333;1,6;NA;4,15;metformin ;0;0;0;none;none;hypertension
+182;M;60;2;33,3;single;2;9,00 ;0;0;105;58;6,6;32,8;3,6;134,5;1,3;NA;NA;metformin  ;1;0;0;none;none;none
+186;M;77;1;25,8;married;2;0,67 ;0;0;212;60;6,7;40,0;1,8;96,25;1,6;5,185;3,975;sitagliptin, metformin  ;0;1;0;none;none;none
+190;F;59;1;34,7;single;2;10,00 ;0;0;90;79;6,7;28,5;1,8;202,5;2,0;NA;3,7;acarbose  ;0;0;0;none;none;hypertension
+197;F;57;1;24,1;single;2;10,00 ;0;0;146;54;6,7;31,5;3;131,5;1,1;NA;4,3;sitagliptin, acarbose;0;1;0;none;none;hypertension
+435;M;38;1;44,1;single;2;0,67 ;0;0;217;86;6,7;NA;2,8;NA;1,7;NA;NA;metformin ;1;0;0;none;none;none
+472;M;34;1;25,4;single;2;5,00 ;0;1;196;99;6,7;28,7;1,9;115;1,0;NA;NA;gliclazide ;0;1;0;none;none;hypertension
+85;M;34;1;22,9;single;2;20,00 ;0;0;93;60;6,8;45,6;3,8;91;1,5;9,3;3,62;metformin ;0;1;0;none;none;hypertension
+710;M;34;1;26,8;single;2;0,08 ;0;0;169;57;6,8;52,0;3,8;74,4;2,0;NA;3,646153;metformin ;0;0;0;none;none;hypertension
+429;M;31;1;27,2;single;2;7,00 ;0;0;213;87;6,8;38,0;3,2;179;1,7;NA;3,918181;insulin degludec, metformin;0;1;0;none;none;none
+702;M;31;1;19,2;single;2;5,00 ;0;0;150;64;6,8;35,0;3,2;125,5;1,1;NA;4; gliquidone  ;0;1;0;none;none;hypertension
+4;F;43;1;30,4;single;2;0,10 ;0;0;127;64;6,8;33,5;1,7;347;2,1;NA;NA;none;0;0;0;none;none;none
+189;M;42;1;33,1;single;2;10,00 ;0;0;152;60;6,8;32,0;3,1;155;1,3;NA;3,85;metformin ;0;1;0;none;none;thyroid nodule
+201;M;47;1;29,4;single;2;0,41 ;0;0;94;92;6,9;42,0;2;242,5;1,4;NA;4,1;sitagliptin, metformin ;0;0;0;none;none;none
+285;M;50;1;24,3;single;2;7,00 ;0;0;114;79;6,9;47,0;1,8;98;1,4;NA;4,433333;metformin, voglibose  ;0;1;0;none;none;none
+393;M;49;1;26,4;single;2;21,00 ;0;0;216;95;6,9;44,0;1;126,666666;1,7;NA;3,6;metformin, acarbose, gliclazide;1;0;0;none;none;none
+468;M;50;1;28,1;single;2;10,00 ;0;0;105;81;6,9;33,8;2,5;141,2;1,0;26,3;NA;insulin glarigine, insulin glulisine;0;0;0;none;none;none
+492;M;49;1;20,3;single;2;7,00 ;0;0;215;50;6,9;36,7;1,9;157;1,0;NA;3,75;gliclazide, sitagliptin  ;0;1;0;none;none;none
+496;F;49;1;25;single;2;0,50 ;0;0;166;92;7,0;35,0;1,35;78,5;1,8;NA;3,5;acarbose, sitagliptin     ;0;1;0;cerebrovascular disease;none;hypertension, hyperlipidemia             
+498;M;50;1;34,8;single;2;0,50 ;0;0;130;97;7,0;23,0;1;236;1,9;NA;3,925;sitagliptin, metformin ;1;1;0;none;none;none
+684;F;49;1;26,5;married;2;15,00 ;0;0;123;98;7,0;34,6;1,35;202,4;2,3;NA;NA;insulin glargine, Humulin R, voglibose  ;0;0;0;coronary heart disease  ;none;hypertension, fatty liver disease, hypothyroidism
+700;M;42;1;33,8;divorced;2;7,00 ;0;0;102;60;7,0;39,8;3,1;177,25;1,4;NA;NA;acarbose, insulin aspart 70/30 ;0;1;0;none;none;none
+716;M;50;2;29,1;divorced;2;0,10 ;0;0;110;98;7,0;36,8;1,8;95,833333;1,6;NA;3,933333;sitagliptin  ;0;1;0;none;none;fatty liver disease
+366;F;49;1;24,8;divorced;2;20,00 ;0;0;135;80;7,1;33,0;1,35;104;1,5;NA;4,1;sitagliptin, gliclazide, insulin degludec ;0;1;0;none;none;hypertension
+399;F;39;1;28,2;divorced;2;0,10 ;0;0;114;93;7,1;40,0;3,1;116;1,1;NA;NA;sitagliptin   ;0;0;0;none;none;hyperlipidemia, hepatic dysfunction
+490;M;50;1;29,1;divorced;2;0,10 ;0;0;186;60;7,1;40,5;1,8;202;1,2;101,5;4;none;0;0;0;none;none;none
+500;F;39;1;25,1;na;2;;0;0;205;57;7,1;27,5;3,1;166,5;1,1;NA;NA;;0;0;0;none;nephropathy;
+672;M;49;1;35;na;2;;0;0;117;55;7,2;31,5;1,1;136;1,4;41,7028;3,85;metformin, acarbose, gliclazide;0;0;0;none;none;
+690;F;39;1;42,2;married;2;;0;0;208;79;7,2;35,5;3,1;296,5;2,3;NA;3,5;insulin glarigine, insulin glulisine;0;0;0;none;none;
+718;M;50;1;28;married;2;;1;0;86;78;7,2;39,0;1;225;0,9;NA;NA;gliclazide, sitagliptin  ;1;1;0;peripheral arterial disease, coronary heart disease;neuropathy, retinopathy;
+264;M;33;2;31,1;married;2;;0;0;200;97;7,2;55,0;2,6;199;2,1;NA;NA;acarbose, sitagliptin     ;1;1;0;peripheral arterial disease;nephropathy;
+464;M;50;2;22,4;married;2;;0;0;174;62;7,2;52,0;3,7;68;1,7;NA;3,8;sitagliptin, metformin ;0;0;0;coronary heart disease;none;
+466;F;30;1;28,4;married;2;;0;0;197;74;7,2;45,0;3,3;91;1,0;NA;NA;insulin glargine, Humulin R, voglibose  ;0;0;0;peripheral arterial disease;none;
+686;F;33;1;28,5;married;2;;1;0;97;79;7,2;25,0;2,6;215;1,9;NA;3,9;none;1;1;0;none;neuropathy, retinopathy;
+688;F;30;1;22;married;2;;0;1;110;86;7,2;36,8;3,3;272;1,2;NA;3,666666;neon;0;0;0;peripheral arterial disease;neuropathy;
+16;M;50;1;23,3;married;2;;0;0;195;56;7,3;33,7;3,7;213;1,4;215,9;3,82;na;0;1;0;peripheral arterial disease;nephropathy;
+705;M;33;1;26,1;married;2;;0;0;107;65;7,3;NA;2,6;NA;3,1;NA;NA;pioglitazone, metformin, insulin degludec ;0;0;0;peripheral arterial disease, cerebrovascular disease;none;
+709;M;50;1;30,2;married;2;;0;0;182;59;7,3;28,0;3,7;87,5;1,9;NA;NA;sitagliptin;1;1;0;none;none;
+19;F;50;1;25,1;married;2;;1;0;163;56;7,3;46,0;3,3;93;1,3;NA;3,4;voglibose, insulin degludec;1;0;0;peripheral arterial disease;none;
+123;F;49;1;21,4;married;2;;0;0;210;60;7,3;21,0;3,9;88,5;1,3;NA;2,983333;voglibose, insulin degludec;0;1;0;coronary heart disease, peripheral arterial disease;neuropathy;
+476;F;33;1;26,7;married;2;;0;0;106;48;7,4;31,5;2,6;106;1,9;NA;NA;insulin aspart 70/30, metformin, acarbose;0;0;0;peripheral arterial disease;neuropathy;
+682;F;50;2;31,8;married;2;;0;0;156;58;7,4;40,6;3,3;167;1,7;4,8;4,5;insulin aspart 70/30;0;0;0;none;none;
+706;M;50;1;27,2;married;2;;0;0;201;60;7,5;30,3;3,7;133,333333;1,6;NA;4,133333;insulin glarigine, metformin;0;1;0;none;none;
+754;M;49;1;25,8;married;2;;0;0;171;59;7,5;40,5;2,6;40,5;0,9;11,2;NA;insulin aspart 70/30, acarbose;0;0;0;none;none;
+68;M;50;1;38,4;married;2;;0;1;138;64;7,5;32,2;2,5;143;3,6;NA;NA;insulin detemir, acarbose, metformin;0;0;0;none;none;
+342;M;50;1;38,4;married;2;;0;1;130;64;7,5;32,2;1,9;143;3,6;NA;NA;pioglitazone, metformin, insulin degludec ;0;0;0;none;none;
+712;M;50;1;35,9;married;2;;0;0;212;66;7,6;34,0;1,9;242;1,2;NA;NA;sitagliptin;0;1;0;none;none;
+715;M;50;1;24,7;married;2;;0;0;192;65;7,6;39,7;2,5;230,333333;1,3;9,8;4,8;voglibose, insulin degludec;0;1;0;none;none;
+12;M;55;1;28,7;married;2;;0;0;131;56;7,7;29,0;0,8;154,5;1,0;NA;4,15;voglibose, insulin degludec;0;0;0;peripheral arterial disease, coronary heart disease;neuropathy, retinopathy;
+20;F;40;1;36,1;married;2;;0;0;152;65;7,7;56,0;2,8;249,5;1,1;9;4,133333;insulin aspart 70/30, metformin, acarbose;0;1;0;peripheral arterial disease;neuropathy;
+41;M;40;1;28,7;married;2;;0;0;124;57;7,7;36,5;3,9;108,75;1,4;8,9;4,1;insulin aspart 70/30;0;1;0;peripheral arterial disease;neuropathy, retinopathy;
+60;F;35;1;27,9;married;2;;0;0;119;60;7,8;26,8;2,3;63,25;1,2;NA;4,08;insulin glarigine, metformin;0;1;0;peripheral arterial disease;none;
+79;M;41;1;29,9;married;2;;0;0;210;55;7,8;30,0;1,7;208,5;1,3;NA;NA;insulin aspart 70/30, acarbose;1;0;0;peripheral arterial disease;none;
+81;M;43;n;24,6;MARRIED;2;;0;0;103;55;7,8;33,7;1,9;277,666666;1,5;115,5;4,6;insulin detemir, acarbose, metformin;1;1;0;peripheral arterial disease;none;
+133;M;30;2;29,8;MARRIED;2;;0;0;199;68;7,8;39,7;2,5;251,333333;1,4;NA;3,833333;;0;0;0;peripheral arterial disease;neuropathy, retinopathy;
+135;M;54;1;29,3;SINGLE;2;;0;0;198;45;7,8;44,7;2,5;61,333333;1,2;24,3;NA;;1;0;0;coronary heart disease;retinopathy;
+146;M;30;1;32,6;MARRIED;2;;0;0;103;57;7,8;25,7;2,2;218,333333;1,5;NA;NA;;1;0;0;peripheral arterial disease;none;
+152;M;39;1;14,6;MARRIED;2;;1;0;117;56;7,8;73,3;2,1;121,5;1,0;NA;NA;;0;0;0;peripheral arterial disease, cerebrovascular disease;neuropathy, retinopathy;
+178;F;48;1;24,3;WIDOWED;2;;0;0;181;55;7,9;26,5;2,7;380;1,2;NA;NA;;0;0;0;peripheral arterial disease, cerebrovascular disease;nephropathy, neuropathy, retinopathy;
+12;M;31;1;28,4;MARRIED;2;;0;0;189;54;7,9;39,4;2,4;267,666666;NA;NA;4,416666;;0;1;0;peripheral arterial disease;nephropathy, neuropathy, retinopathy;
+18;M;30;1;30;MARRIED;2;;0;0;147;61;7,9;34,7;2,4;123;0,9;NA;NA;;1;0;0;peripheral arterial disease, coronary heart disease;neuropathy;
+24;M;45;1;26,9;MARRIED;2;;1;0;214;59;7,9;38,2;3,3;133,6;1,1;NA;3,442105;;0;1;0;peripheral arterial disease, coronary heart disease;neuropathy;
+675;M;45;1;19;MARRIED;2;;0;0;135;57;8,0;37,6;3,3;142,333333;0,9;NA;NA;;0;0;0;none;neuropathy;
+39;M;45;1;24,5;SINGLE;2;;0;0;168;56;8,1;69,0;2;76;1,0;NA;3,706896;;0;1;0;coronary heart disease;neuropathy;
+474;M;31;1;35,1;WIDOWED;2;;0;0;104;58;8,1;39,0;3,2;261;1,7;NA;4,08;;1;0;0;peripheral arterial disease;neuropathy;
+648;M;45;1;29,5;MARRIED;2;;0;0;181;69;8,1;40,3;2;575,333333;1,2;3;NA;;0;1;0;peripheral arterial disease;neuropathy;
+48;M;30;1;48,1;WIDOWED;2;;0;0;94;54;8,2;38,0;2,6;108,5;2,2;NA;3,6;;1;0;0;none;none;
+656;M;30;1;29,4;MARRIED;2;;0;0;203;53;8,2;54,8;2,6;108,75;2,0;NA;3,85;;1;1;0;none;none;
+57;M;35;1;28,7;MARRIED;2;;0;0;217;62;8,2;40,4;2;150,4;0,9;NA;3,9;;1;0;0;peripheral arterial disease;retinopathy;
+658;M;35;2;32,9;SINGLE;2;;0;0;110;65;8,3;34,3;2;130,25;1,2;8,9;NA;;0;0;0;peripheral arterial disease;none;
+69;M;45;1;22,8;MARRIED;2;;1;0;195;58;8,4;50,0;3,1;135;0,8;NA;3,9;;0;1;0;none;none;
+662;M;45;1;27,1;WIDOWED;2;;0;0;132;58;8,4;28,8;3,1;986,75;1,2;NA;4,3;;0;1;0;peripheral arterial disease;nephropathy, neuropathy;
+714;M;45;1;31,3;SINGLE;2;;1;1;110;57;8,4;28,5;3,9;181,5;1,5;26,333333;3,8;;0;1;0;none;none;
+87;F;50;3;41;MARRIED;2;;0;0;146;58;8,5;19,3;2,5;154;1,7;NA;3,2;;1;0;1;none;none;
+231;F;50;1;23,2;SINGLE;2;;0;0;192;64;8,5;39,0;2,5;189;0,6;NA;3,4;;0;0;0;peripheral arterial disease;neuropathy;
+505;F;48;1;28,6;MARRIED;2;;0;0;192;61;8,6;41,3;2,2;67,25;1,0;13;3,475;;0;1;0;none;none;
+654;M;38;1;30,7;MARRIED;2;;0;0;158;58;8,8;31,0;2,9;323,5;1,7;NA;4,8;;0;0;0;none;none;
+7;F;46;1;21,6;MARRIED;2;;1;0;215;58;8,8;47,3;2,8;89,5;1,0;NA;4,066666;;1;0;0;none;none;
+61;M;45;1;23,5;MARRIED;2;;0;0;150;63;8,9;NA;2,8;NA;NA;NA;NA;;0;1;0;none;none;
+102;F;54;1;23,9;MARRIED;2;;1;1;101;57;9,0;41,7;2,5;118;1,2;121,5;NA;;0;1;0;none;none;
+127;F;54;1;27,1;MARRIED;2;;0;0;173;60;9,1;34,0;2,5;86;1,3;29,1;4,2;;0;0;0;none;none;
+228;M;43;2;15;MARRIED;2;;0;1;177;55;9,2;34,7;3,9;237,666666;0,7;NA;3,6;;0;1;0;none;none;
+674;M;49;1;25,5;WIDOWED;2;;0;0;204;54;10,0;37,0;0,8;340,6;1,7;NA;NA;;0;1;0;none;none;
+744;F;49;1;24,2;WIDOWED;2;;0;0;121;60;10,2;45,0;3,5;234;1,1;NA;4,3;;0;1;0;none;none;
+10;F;45;1;18,6;WIDOWED;2;;0;0;175;57;10,2;48,1;3,5;102,1;0,9;9;4,2;;0;0;0;none;none;
+58;F;47;1;19,9;SINGLE;2;;1;0;181;56;10,3;52,5;2,8;96;0,9;NA;3,95;;1;0;0;none;none;
+108;M;38;2;23,5;MARRIED;2;;0;0;149;60;11,6;29,0;3,2;96;NA;NA;3,6;;0;0;0;none;none;
+150;F;42;1;24;MARRIED;2;;0;0;166;53;11,7;33,3;2,4;190,571428;1,5;NA;4,3;;0;1;0;none;none;
+198;M;39;1;26,9;MARRIED;2;;0;0;122;65;5,0;54,0;4,5;88;1,2;NA;4,43;;0;0;0;none;none;
+357;M;30;1;28,8;WIDOWED;2;;0;0;199;59;5,1;36,8;3,5;264,25;1,4;NA;3,96;;0;0;0;none;none;
+588;M;40;1;22,6;WIDOWED;2;;0;0;161;62;5,2;NA;3;NA;1,2;NA;NA;;0;0;0;coronary heart disease;nephropathy, neuropathy, retinopathy;
+666;M;38;1;31;MARRIED;2;;0;0;85;52;5,2;34,3;3,2;81;1,5;NA;3,766666;;0;1;0;none;none;
+698;M;30;1;31;MARRIED;2;;0;0;173;52;5,2;34,3;3,5;81;1,5;NA;3,766666;;0;1;0;none;none;
+753;M;46;1;31,6;MARRIED;2;;0;0;129;59;5,3;31,6;4,7;75;1,1;17,6;NA;;1;0;0;none;none;
+110;F;45;1;23,8;MARRIED;2;;0;0;106;45;5,5;62,0;0,6;33;1,1;NA;NA;;0;0;0;none;none;
+113;M;33;1;25,5;MARRIED;2;;0;0;145;65;5,5;31,0;2,5;122;NA;NA;NA;;0;1;0;coronary heart disease;none;
+119;M;40;2;23,9;WIDOWED;2;;0;0;103;54;5,5;46,5;2,4;184,5;1,7;NA;3,35;;0;0;0;none;none;
+122;M;40;1;30,6;MARRIED;2;;0;0;191;59;5,6;53,5;2,5;186,5;1,6;NA;4,1;;0;0;0;none;none;
+452;M;50;1;27;SINGLE;2;;1;0;170;68;5,6;27,0;3,2;87;1,2;NA;NA;;0;1;0;none;none;
+652;M;33;1;26,4;MARRIED;2;;0;0;157;62;5,6;49,0;2,5;39,5;1,0;NA;NA;;0;0;0;peripheral arterial disease;neuropathy;
+660;M;40;1;28;SINGLE;2;;0;0;215;64;5,6;26,7;2,5;109,833333;1,2;NA;NA;pioglitazone, metformin, insulin degludec ;0;0;0;cerebrovascular disease;none;
+673;M;40;1;28,3;MARRIED;2;;0;0;134;58;5,7;33,5;2,4;62;2,6;NA;NA;sitagliptin;0;0;0;cerebrovascular disease;none;
+134;F;63;1;25,5;MARRIED;2;;0;0;131;54;5,8;54,0;3,4;86;1,0;4,1;NA;voglibose, insulin degludec;0;1;0;cerebrovascular disease;none;
+162;F;63;1;24,9;MARRIED;2;;1;0;171;62;5,8;36,0;3,4;73;1,4;NA;NA;voglibose, insulin degludec;0;0;0;none;none;
+168;F;44;1;28,4;WIDOWED;2;;0;0;189;53;5,8;33,2;4,1;179,666666;1,8;NA;NA;insulin aspart 70/30, metformin, acarbose;0;1;0;none;none;
+580;F;49;1;30,6;MARRIED;2;;0;0;91;64;5,8;42,0;2,7;336,666666;2,0;NA;4,275;insulin aspart 70/30;0;1;0;none;none;
+694;M;42;1;32;SINGLE;2;;1;0;186;62;5,8;24,0;3,8;55,25;1,3;NA;3,093103;insulin glarigine, metformin;0;1;0;peripheral arterial disease, coronary heart disease;none;
+790;F;44;1;27,3;MARRIED;2;;0;0;157;55;5,8;25,0;3,6;194;2,0;NA;3,3;insulin aspart 70/30, acarbose;1;0;0;none;none;
+140;F;33;1;34,2;MARRIED;2;;0;0;160;58;5,8;25,3;1,5;229,333333;0,9;NA;NA;insulin detemir, acarbose, metformin;0;0;0;none;none;
+143;F;48;1;37,8;MARRIED;2;;0;0;120;65;5,9;34,7;2,2;208,333333;1,2;NA;3,933333;;0;1;0;none;none;
+146;F;48;3;28,1;MARRIED;2;;0;0;102;69;5,9;60,0;2,2;31;1,3;NA;3,9;;0;1;0;none;none;
+161;M;57;1;30;MARRIED;2;;0;0;194;55;5,9;49,0;3,5;200;1,7;NA;4,2;;0;0;0;none;none;
+375;F;47;1;27,1;MARRIED;2;;0;0;92;63;5,9;44,0;3,7;58;1,2;NA;NA;;0;1;0;none;none;
+426;F;48;1;29,1;MARRIED;2;;0;0;173;58;5,9;22,9;2,2;351;1,4;NA;4,2;;0;0;0;none;none;
+453;F;33;1;28,9;MARRIED;2;;0;0;193;67;6,0;41,2;1,5;72,4;0,9;NA;NA;;0;0;0;none;none;
+534;M;57;1;33,3;MARRIED;2;;0;0;214;47;6,0;33,7;3,5;157;1,5;NA;3,8;;0;1;0;none;none;
+612;F;33;1;24,4;MARRIED;2;;0;0;104;63;6,0;48,8;3,7;299;1,6;NA;4,2;;0;1;0;none;none;
+692;F;48;1;38,5;SINGLE;2;;1;0;201;54;6,0;22,8;2,2;214;1,6;NA;3,866666;;0;0;0;none;none;
+717;F;33;1;27,7;MARRIED;2;;0;0;192;65;6,0;51,5;3,9;166;1,1;5,5;NA;;0;0;0;none;none;
+725;M;34;2;25,7;MARRIED;2;;0;0;87;63;6,0;27,7;0,9;189,333333;1,4;NA;4,2;;0;0;0;none;none;
+777;M;43;1;25,2;MARRIED;2;;0;0;87;51;6,1;42,0;3,9;96,5;1,0;NA;4,1;;0;0;0;none;none;
+67;F;28;1;22,8;MARRIED;2;;0;0;91;60;6,1;48,0;0,8;159;1,1;NA;NA;;0;1;0;none;none;
+109;M;42;1;32,6;MARRIED;2;;0;0;218;59;6,1;NA;3,8;NA;0,8;NA;2,446153;;0;0;0;none;none;
+351;M;47;1;24,4;MARRIED;2;;0;0;169;55;6,1;50,0;4,9;73;1,0;NA;4,1;;0;0;0;none;none;
+552;M;39;1;27;WIDOWED;2;;0;0;130;64;6,1;37,0;4,1;105;0,9;NA;3,6;;0;0;0;none;none;
+685;F;39;1;32,2;MARRIED;2;;0;0;138;58;6,1;44,0;0,7;257;1,3;NA;3,85;;0;0;0;none;none;
+750;F;49;1;23,3;MARRIED;2;;0;0;171;57;6,1;29,0;4,1;122;1,1;6;NA;;0;1;0;none;none;
+31;M;50;1;29,8;WIDOWED;2;;0;0;185;64;6,2;37,3;3,6;90,5;0,7;12;3,725;;0;1;0;cerebrovascular disease;none;
+129;F;56;1;30;MARRIED;2;;0;0;186;46;6,2;27,3;2,8;260,75;2,8;56,666666;4,233333;;1;1;0;none;none;
+173;M;51;1;46,1;MARRIED;2;;0;0;116;55;6,2;44,8;1,1;186;1,9;NA;NA;;0;1;0;coronary heart disease  ;none;
+176;M;52;1;30,1;MARRIED;2;;0;0;178;61;6,2;31,6;1,7;106,333333;1,2;61,9;4,033333;;0;0;0;none;none;
+179;M;56;1;30,9;MARRIED;2;;0;0;108;56;6,2;41,0;1,7;171,5;0,8;19,76;NA;;0;0;0;none;none;
+182;F;59;1;29,5;MARRIED;2;;1;0;90;60;6,2;30,8;0,9;110;1,1;NA;3,65;;0;1;0;none;none;
+183;M;52;1;30;MARRIED;2;;0;0;201;49;6,2;48,8;1,7;95,25;1,6;2,35;4,05;;0;0;0;none;none;
+185;F;56;1;33,9;WIDOWED;2;;0;0;191;69;6,2;39,3;2,8;189,25;1,2;5,3;3,775;;0;1;0;none;none;
+195;M;56;1;37,5;MARRIED;2;;0;0;162;54;6,2;44,0;1,7;127;1,3;NA;4;;1;0;0;none;nephropathy;
+316;M;51;1;34;MARRIED;2;;1;0;123;66;6,3;36,0;1,1;110;1,7;NA;NA;;0;0;0;none;none;
+646;F;59;1;35,4;MARRIED;2;;0;0;110;65;6,3;29,0;0,9;159;1,2;NA;NA;;0;0;0;none;none;
+186;F;54;1;27,1;MARRIED;2;;0;0;132;54;6,3;36,3;1,2;198,333333;1,1;30,3;NA;;0;0;0;peripheral arterial disease, coronary heart disease;neuropathy, retinopathy;
+187;M;69;1;25,3;MARRIED;2;;1;0;182;47;6,3;31,3;3,1;162;0,9;11,8;3,82;;1;0;0;peripheral arterial disease;nephropathy;
+188;F;54;1;21,8;MARRIED;2;;1;0;193;62;6,3;31,3;1,2;111;1,4;155;3,733333;;0;1;0;coronary heart disease;none;
+191;M;60;1;27,1;MARRIED;2;;0;0;136;60;6,3;40,7;1,6;50;0,9;NA;4,533333;;0;0;0;peripheral arterial disease;none;
+194;M;54;1;23,9;MARRIED;2;;0;0;146;56;6,4;48,8;3,1;50;1,2;NA;3,8;;0;0;0;none;neuropathy, retinopathy;
+197;M;69;1;27,7;MARRIED;2;;0;0;99;69;6,4;73,0;3,1;74;1,3;NA;3,6;;1;0;0;peripheral arterial disease;neuropathy;
+200;M;57;1;29,7;MARRIED;2;;0;0;165;55;6,4;39,7;3,7;92;1,3;NA;3,866666;;0;1;0;peripheral arterial disease;nephropathy;
+203;M;55;1;24,7;MARRIED;2;;1;0;215;59;6,4;36,8;2,9;147;1,0;3;4,2;;0;1;0;peripheral arterial disease, cerebrovascular disease;none;
+411;M;57;2;22,5;MARRIED;2;;0;0;166;60;6,4;23,8;3,7;141;1,8;125,85;3,2;;0;1;0;none;none;
+520;M;54;1;22,4;MARRIED;2;;0;0;199;48;6,5;41,0;3,1;50;1,4;NA;3,95;;0;0;0;peripheral arterial disease;none;
+622;M;55;1;23,6;MARRIED;2;;0;0;183;65;6,5;42,8;2,9;115;1,0;3,8;3,875;;0;0;0;coronary heart disease, peripheral arterial disease;neuropathy;
+758;M;60;1;29,2;MARRIED;2;;0;0;90;61;6,5;43,6;1,6;43,8;0,9;25;3,96;;0;0;0;peripheral arterial disease;neuropathy;
+206;F;60;1;26,3;MARRIED;2;;0;0;193;65;6,5;40,2;2,2;104;1,0;NA;NA;;0;0;0;none;none;
+600;F;60;1;26,6;MARRIED;2;;0;0;153;62;6,5;57,5;2,2;93,5;1,3;NA;4,25;;0;0;0;none;none;
+76;M;73;1;40,4;MARRIED;2;;0;0;144;55;6,6;45,0;3,2;94,5;1,3;17,035;4,15;pioglitazone, metformin, insulin degludec ;0;0;0;none;none;
+86;F;61;1;33,2;MARRIED;2;;1;0;166;55;6,6;41,6;1,4;180,8;2,1;NA;4,2375;sitagliptin;0;0;0;none;none;
+209;M;51;1;28,1;MARRIED;2;;0;0;158;61;6,6;55,0;1,95;59,5;1,2;17;NA;voglibose, insulin degludec;0;0;0;none;none;
+212;F;61;1;33,1;WIDOWED;2;;0;0;96;65;6,6;52,0;1,4;71;1,4;NA;3,7;voglibose, insulin degludec;0;0;0;none;none;
+215;M;55;1;30,7;WIDOWED;2;;0;0;219;66;6,6;32,1;2,7;146;NA;29,55;NA;insulin aspart 70/30, metformin, acarbose;0;1;0;none;none;
+218;F;55;1;25,9;MARRIED;2;;0;0;92;54;6,6;46,0;2,9;116;1,3;NA;3,95;insulin aspart 70/30;0;0;0;peripheral arterial disease, coronary heart disease;neuropathy, retinopathy;
+221;M;73;1;29,4;MARRIED;2;;0;0;212;56;6,7;36,3;3,2;138;1,6;23;3,866666;insulin glarigine, metformin;0;1;0;peripheral arterial disease;neuropathy;
+224;M;73;1;31,9;WIDOWED;2;;0;0;190;58;6,7;40,5;3,2;145;1,1;35,7;3,9;insulin aspart 70/30, acarbose;0;0;0;peripheral arterial disease;neuropathy, retinopathy;
+227;F;63;1;35,8;MARRIED;2;;1;0;183;65;6,7;37,0;3,7;156;1,1;NA;3,8;insulin detemir, acarbose, metformin;0;0;0;peripheral arterial disease;none;
+438;M;51;1;23,3;MARRIED;2;;0;0;188;54;6,7;37,0;1,95;97;0,8;NA;NA;;0;1;0;peripheral arterial disease;none;
+456;F;63;1;28,3;MARRIED;2;;0;0;98;67;6,7;40,0;3,7;300;1,1;7;4,15;;0;0;0;peripheral arterial disease;none;
+510;M;73;1;25,8;SINGLE;2;;0;0;144;60;6,7;38,5;3,2;72;1,0;6,1;NA;;0;1;0;peripheral arterial disease;neuropathy, retinopathy;
+602;M;55;1;37,4;MARRIED;2;;0;0;129;64;6,7;42,0;2,7;150;0,9;12,6;4,3;;0;0;0;coronary heart disease;retinopathy;
+772;F;55;2;41,9;MARRIED;2;;0;0;121;57;6,8;51,5;2,9;257,5;1,8;6,77;4,433333;;0;0;0;peripheral arterial disease;none;
+230;F;52;1;28,6;MARRIED;2;;0;0;176;60;6,8;35,0;1,4;260;1,0;NA;4,166666;;0;1;0;peripheral arterial disease, cerebrovascular disease;neuropathy, retinopathy;
+233;F;55;1;28,9;MARRIED;2;;0;0;124;61;6,8;28,8;2;165;2,0;11,1;3,733333;;0;0;0;peripheral arterial disease, cerebrovascular disease;nephropathy, neuropathy, retinopathy;
+236;F;51;1;30,6;MARRIED;2;;0;0;159;57;6,8;33,0;2;247;1,4;NA;4,2;;0;0;0;peripheral arterial disease;nephropathy, neuropathy, retinopathy;
+239;M;57;1;30,1;MARRIED;2;;0;0;206;66;6,8;46,3;1,9;269;1,3;NA;NA;;0;1;0;peripheral arterial disease, coronary heart disease;neuropathy;
+242;M;55;2;34,5;SINGLE;2;;0;0;131;60;6,8;28,9;2,7;145,7;1,1;123,03;3,4;;1;0;0;peripheral arterial disease, coronary heart disease;neuropathy;
+252;F;55;1;23,5;SINGLE;2;;0;0;199;59;6,8;70,0;2;100,5;1,3;NA;NA;;0;0;0;none;neuropathy;
+312;M;57;1;28,2;MARRIED;2;;0;0;186;56;6,8;65,0;1,9;120;1,2;NA;NA;;0;1;0;coronary heart disease;neuropathy;
+614;F;52;1;34,4;SINGLE;2;;0;0;117;62;6,8;34,2;1,4;407,5;1,6;61,65;3,7;;0;0;0;peripheral arterial disease;neuropathy;
+647;M;55;1;28,4;WIDOWED;2;;0;0;180;62;6,8;45,7;2,7;117;1,3;17;4,1;;0;0;0;peripheral arterial disease;neuropathy;
+739;F;51;1;27;SINGLE;2;;0;0;204;49;6,8;32,0;2;153,5;2,8;NA;3,98;;0;1;0;none;none;
+1;M;58;1;27,6;MARRIED;2;;0;0;179;49;6,8;35,8;4,3;180,75;1,4;5,9;3,6;;1;0;0;none;none;
+9;F;60;1;31,8;MARRIED;2;;0;0;98;40;6,9;42,0;2,5;122;1,1;5;4,3;;0;1;0;peripheral arterial disease;retinopathy;
+243;M;56;1;32;WIDOWED;2;;0;0;179;51;6,9;52,8;3,3;54,25;1,2;NA;3,6;;1;0;0;peripheral arterial disease;none;
+245;M;61;2;18,9;SINGLE;2;;0;0;183;63;6,9;50,2;1,6;54,333333;2,0;53;3,3;;0;0;0;none;none;
+251;M;73;1;25;MARRIED;2;;0;0;102;51;6,9;38,0;9,9;124,75;1,0;7,8328;3,98;;0;1;0;peripheral arterial disease;nephropathy, neuropathy;
+254;M;55;1;29,8;MARRIED;2;;0;0;173;58;6,9;36,7;2,6;88,333333;1,0;NA;3,7;;0;1;0;none;none;
+257;M;56;1;26,8;SINGLE;2;;0;0;148;63;7,0;33,0;3,3;122,2;1,2;NA;NA;;0;1;0;none;none;
+258;M;55;1;33,2;MARRIED;2;;0;0;131;64;7,0;34,0;2,6;223,333333;0,8;4,8;NA;;0;0;0;peripheral arterial disease;neuropathy;
+260;M;60;1;39,6;MARRIED;2;;0;0;124;64;7,0;38,2;3,3;101,666666;1,5;38,7931;2,3;;0;1;0;none;none;
+263;F;53;1;26,4;MARRIED;2;;0;0;143;53;7,0;33,5;3;178;1,2;NA;3,514285;;1;0;0;none;none;
+266;M;58;1;29,5;SINGLE;2;;0;0;164;57;7,0;NA;4,3;NA;1,0;NA;3,8;;0;1;0;none;none;
+306;M;73;1;39,5;WIDOWED;2;;0;0;127;61;7,0;NA;9,9;NA;NA;NA;NA;;0;0;0;none;none;
+536;M;54;1;23,2;MARRIED;2;;0;0;149;62;7,0;36,0;3;286,5;1,3;9,4;NA;;0;0;0;none;none;
+577;F;53;1;20,8;MARRIED;2;;0;0;109;56;7,0;41,5;3;72,5;1,0;NA;NA;;1;0;0;none;none;
+655;M;61;1;36,3;SINGLE;2;;0;0;169;60;7,0;21,0;2;123,5;1,6;NA;NA;;0;1;0;none;none;
+734;M;60;1;25,4;SINGLE;2;;0;0;201;65;7,1;38,7;3,3;116;1,3;NA;4,6;;0;1;0;none;none;
+37;F;54;1;22;MARRIED;2;;0;0;188;51;7,1;35,6;2,5;131;1,0;NA;4,38;;1;0;0;none;none;
+159;F;66;1;32,2;MARRIED;2;;0;0;122;58;7,1;39,5;2,4;66;1,6;NA;NA;;0;0;0;none;none;
+269;F;66;1;28,9;MARRIED;2;;0;0;95;47;7,1;45,3;2,4;173;1,1;NA;3,866666;;0;1;0;none;none;
+272;F;52;1;28,4;MARRIED;2;;0;0;109;63;7,1;30,8;2;422;0,9;32,4;NA;;0;1;0;none;none;
+462;F;52;1;26,2;MARRIED;2;;0;0;189;55;7,1;30,0;2;85,4;1,6;NA;NA;;0;1;0;none;none;
+15;F;61;2;23,9;MARRIED;2;;0;0;127;59;7,1;NA;2,5;NA;NA;NA;NA;;0;0;0;none;none;
+275;M;55;1;23,9;MARRIED;2;;0;0;180;59;7,1;NA;2,1;NA;NA;NA;NA;;0;0;0;none;none;
+278;M;56;1;39,4;MARRIED;2;;0;0;102;57;7,2;37,4;3,4;184,777777;1,6;10,35;NA;;0;1;0;coronary heart disease;nephropathy, neuropathy, retinopathy;
+281;M;55;1;27,4;MARRIED;2;;0;0;117;54;7,2;51,0;3,2;240;1,1;3,5;3,933333;;1;0;0;none;none;
+282;M;56;2;35,5;MARRIED;2;;0;0;187;53;7,2;43,0;3,4;154;1,5;22;4,45;;1;1;0;none;none;
